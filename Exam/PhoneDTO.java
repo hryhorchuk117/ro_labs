@@ -1,4 +1,4 @@
-package DTO;
+package Exam;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

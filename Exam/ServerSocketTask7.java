@@ -1,4 +1,4 @@
-package Server;
+package Exam;
 
 import PhoneDTO;
 
